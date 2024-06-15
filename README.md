@@ -12,7 +12,7 @@ This project is a Laravel-based web application that fetches and displays data f
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/articles.git
+    git clone https://github.com/suchanamondal/Articles.git
     cd articles
     ```
 
